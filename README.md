@@ -1,4 +1,4 @@
-# SOVA-ARC-Maya-Rendering-Tool
+# Batch Connect - Maya 3d Rendering Container
 
 ## ARC Maya 3D Rendering Service
 

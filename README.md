@@ -2,7 +2,7 @@
 
 ## ARC Maya 3D Rendering Service
 
-This app will launch a multi-threaded, Maya 3D rendering job on ARC. The user need only:
+This Virginia Tech, ARC cluster app will launch a multi-threaded/SMP, Maya 3D rendering job on one node of the VT ARC cluster. The user need only:
 
 1) First, upload your Maya project to yor ARC home drive by clicking on the download link and navigating to your /home/username/ home directory (upload the whole Maya Project directory:
 
